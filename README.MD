@@ -2,7 +2,7 @@
 
 #### By _**{Maggy}**_
 
-#### https://github.com/Magda098/delani_studio_project
+#### https://magda098.github.io/delani_studio_project/
 
 ## Technologies Used
 
