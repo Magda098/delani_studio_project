@@ -13,9 +13,9 @@
 
 ## Description
 
-_{ The goal of this project is to practise on everything learnt this far on jQuery and boostrap by implementing a landing page for a fictional studio.
+ The goal of this project is to practise on everything learnt this far on jQuery and boostrap by implementing a landing page for a fictional studio.
 
-}_
+
 
 ## Setup/Installation Requirements
 
