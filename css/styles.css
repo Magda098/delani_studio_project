@@ -376,7 +376,7 @@ footer p {
 }
 
 #social-icons {
-  align-items: center;
+  /*align-items: center;*/
   margin-top: 40px;
   margin-left: 25%;
 }
